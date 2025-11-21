@@ -1,0 +1,5 @@
+1|jeans clásicos|1500|formal
+2|camisa abotonada|1000|formal
+3|pants|1500|deportivo
+4|tenis|1800|deportivo
+5|saco|4999|invierno
